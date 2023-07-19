@@ -6,7 +6,7 @@
   background-color: #fadadd;
   border: #0000FF solid 3px;
   padding: 10px;
-  margin-left: 30px;
+  margin-left: 100px;
   margin-right: 30px;
   border-radius: 25px
 }
@@ -14,7 +14,7 @@
 .sidebar {
   border: #000000 3px solid;
   background-color: #0000FF;
-  Position:fixed;top: 20%;
+  Position:fixed;
   width: 5vw;
   border-radius: 25px
   
